@@ -1,5 +1,11 @@
-/* My Styling Here */
+/*My Styling here*/
 
-h1 {
-    color: chartreuse;
-}
+
+/*Tab Nav*/
+
+.tabs li {background:orange; color:white;}
+
+
+#tab-1
+#tab-2
+#tab-3 {
